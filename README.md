@@ -1,4 +1,4 @@
-# Glowy hover effect usign HTML & CSS
+# Responsive Image Carousel ( Animation )
 
 ![Thumbnail](thumbnail.png)
 
